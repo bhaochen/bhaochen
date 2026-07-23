@@ -17,6 +17,7 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 
 - 🤖 **[Ani](https://github.com/bhaochen/ani)** — AI-powered desktop companion with immersive scenes, real-time video interaction, and natural voice conversation
 - 🧠 **[Codev](https://github.com/bhaochen/codev)** — Collaborative Agentic Workspace combining search, browser control, coding, voice, and long-session continuity
+- 🧠 **[Omni](https://github.com/bhaochen/omni)** — Multimodal LLM training & inference framework (LM, VLM, speech) from scratch, with real-time voice/video call
 - 📚 **[CS336](https://github.com/bhaochen/CS336)** — Hands-on implementation of Stanford CS336: LLM training, tokenization, transformers, and scaling
 
 ## Current Projects
@@ -34,6 +35,7 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 - 🔌 **Bridge System** — CCR remote forwarding, AskUserQuestion decoupling, DingTalk & Feishu integration
 
 ### LLM & Systems
+- 🧠 **[Omni](https://github.com/bhaochen/omni)** — Multimodal LLM framework: train LM, VLM, and full speech models from scratch; real-time voice/video call
 - 📚 **[CS336](https://github.com/bhaochen/CS336)** — Transformer implementations from scratch, GPT-2 training, scaling laws
 - 🔧 **System Tooling** — Custom IPC, auto-update pipelines, data epoch migration, cross-session collaboration
 
@@ -45,6 +47,7 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 
 - **Building Ani** — Creating an AI companion that feels truly present: immersive wallpaper scenes, real-time voice, and natural interaction
 - **Expanding Codev** — Making agentic development workflows faster, smoother, and more collaborative
+- **Building Omni** — A from-scratch multimodal LLM framework spanning text, vision, and speech
 - **Studying LLMs** — Working through Stanford CS336 to deepen understanding of transformer internals
 - **Rapid prototyping** — Full features in days, iterating on real user feedback
 

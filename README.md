@@ -23,12 +23,12 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 
 ### AI Desktop Companion
 - 🤖 **[ANI](https://github.com/bhaochen/ani)** — AI-powered desktop companion with wallpaper integration, video layers, companion mode, and plugin system
-- 🖼️ **ImageShowTool** — Terminal-native image rendering with Kitty protocol, ink-picture, and aspect-ratio-aware display
 - 🎙️ **Voice Engine** — STT/TTS pipeline with VAD, noise suppression, and multi-provider support (Groq, faster-whisper, edge-tts)
 - 🧩 **Plugin Runtime** — Modular plugin system with card protocol, UI panels, and SDK discovery
 
 ### Agentic Workspace
 - 🧠 **[Codev](https://github.com/bhaochen/codev)** — Full-featured agentic coding workspace with ToolSearch, SubAgent Swarm, and auto-compact context management
+- 🖼️ **ImageShowTool** — Terminal-native image rendering with Kitty protocol, ink-picture, and aspect-ratio-aware display
 - 🔍 **WebSearch + WebFetch** — Multi-backend search (SearXNG, Tavily, Jina) with image search and terminal image results
 - 🗺️ **LocationTool** — Geographic search with Amap & Google Maps, unlimited paginated results
 - 🔌 **Bridge System** — CCR remote forwarding, AskUserQuestion decoupling, DingTalk & Feishu integration

@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Bohao 👋
 
-<!--
-**bhaochen/bhaochen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 **China** | 🤖 **Building AI companions** | 🚀 **Full-stack agentic engineer**
 
-Here are some ideas to get you started:
+Building the future of human-AI interaction — from terminal agents to desktop companions with voice, vision, and presence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+## Start Here
+
+- 🤖 **[ANI](https://github.com/bhaochen/ani)** — AI-powered desktop companion with immersive scenes, real-time video interaction, and natural voice conversation
+- 🧠 **[Codev](https://github.com/bhaochen/codev)** — Collaborative Agentic Workspace combining search, browser control, coding, voice, and long-session continuity
+- 📚 **[CS336](https://github.com/bhaochen/CS336)** — Hands-on implementation of Stanford CS336: LLM training, tokenization, transformers, and scaling
+
+## Current Projects
+
+### AI Desktop Companion
+- 🤖 **[ANI](https://github.com/bhaochen/ani)** — AI-powered desktop companion with wallpaper integration, video layers, companion mode, and plugin system
+- 🖼️ **ImageShowTool** — Terminal-native image rendering with Kitty protocol, ink-picture, and aspect-ratio-aware display
+- 🎙️ **Voice Engine** — STT/TTS pipeline with VAD, noise suppression, and multi-provider support (Groq, faster-whisper, edge-tts)
+- 🧩 **Plugin Runtime** — Modular plugin system with card protocol, UI panels, and SDK discovery
+
+### Agentic Workspace
+- 🧠 **[Codev](https://github.com/bhaochen/codev)** — Full-featured agentic coding workspace with ToolSearch, SubAgent Swarm, and auto-compact context management
+- 🔍 **WebSearch + WebFetch** — Multi-backend search (SearXNG, Tavily, Jina) with image search and terminal image results
+- 🗺️ **LocationTool** — Geographic search with Amap & Google Maps, unlimited paginated results
+- 🔌 **Bridge System** — CCR remote forwarding, AskUserQuestion decoupling, DingTalk & Feishu integration
+
+### LLM & Systems
+- 📚 **[CS336](https://github.com/bhaochen/CS336)** — Transformer implementations from scratch, GPT-2 training, scaling laws
+- 🔧 **System Tooling** — Custom IPC, auto-update pipelines, data epoch migration, cross-session collaboration
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=bhaochen&hide_border=true)
+
+## What I'm Doing
+
+- **Building ANI** — Creating an AI companion that feels truly present: immersive wallpaper scenes, real-time voice, and natural interaction
+- **Expanding Codev** — Making agentic development workflows faster, smoother, and more collaborative
+- **Studying LLMs** — Working through Stanford CS336 to deepen understanding of transformer internals
+- **Rapid prototyping** — Full features in days, iterating on real user feedback
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhaochen)
+
+---
+
+### Philosophy
+
+> "Build what you'd want to use yourself" — Every project starts as a personal need, then grows into something others can benefit from.
+
+<details>
+<summary>Random Facts</summary>
+
+- ANI started as a weekend experiment, grew into a full desktop companion platform
+- Runs multiple AI models in parallel for different tasks
+- Deeply invested in making AI interaction feel natural, not robotic
+- Constantly exploring new ways to bridge terminal AI with rich desktop experiences
+
+</details>

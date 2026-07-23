@@ -51,6 +51,8 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhaochen)
+[![X](https://img.shields.io/badge/-@chenbhao-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/chenbhao)
+[![HuggingFace](https://img.shields.io/badge/-chenbhao-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/chenbhao)
 
 ---
 

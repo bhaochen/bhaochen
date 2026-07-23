@@ -15,14 +15,14 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 
 ## Start Here
 
-- 🤖 **[ANI](https://github.com/bhaochen/ani)** — AI-powered desktop companion with immersive scenes, real-time video interaction, and natural voice conversation
+- 🤖 **[Ani](https://github.com/bhaochen/ani)** — AI-powered desktop companion with immersive scenes, real-time video interaction, and natural voice conversation
 - 🧠 **[Codev](https://github.com/bhaochen/codev)** — Collaborative Agentic Workspace combining search, browser control, coding, voice, and long-session continuity
 - 📚 **[CS336](https://github.com/bhaochen/CS336)** — Hands-on implementation of Stanford CS336: LLM training, tokenization, transformers, and scaling
 
 ## Current Projects
 
 ### AI Desktop Companion
-- 🤖 **[ANI](https://github.com/bhaochen/ani)** — AI-powered desktop companion with wallpaper integration, video layers, companion mode, and plugin system
+- 🤖 **[Ani](https://github.com/bhaochen/ani)** — AI-powered desktop companion with wallpaper integration, video layers, companion mode, and plugin system
 - 🎙️ **Voice Engine** — STT/TTS pipeline with VAD, noise suppression, and multi-provider support (Groq, faster-whisper, edge-tts)
 - 🧩 **Plugin Runtime** — Modular plugin system with card protocol, UI panels, and SDK discovery
 
@@ -43,7 +43,7 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 
 ## What I'm Doing
 
-- **Building ANI** — Creating an AI companion that feels truly present: immersive wallpaper scenes, real-time voice, and natural interaction
+- **Building Ani** — Creating an AI companion that feels truly present: immersive wallpaper scenes, real-time voice, and natural interaction
 - **Expanding Codev** — Making agentic development workflows faster, smoother, and more collaborative
 - **Studying LLMs** — Working through Stanford CS336 to deepen understanding of transformer internals
 - **Rapid prototyping** — Full features in days, iterating on real user feedback
@@ -61,7 +61,7 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 <details>
 <summary>Random Facts</summary>
 
-- ANI started as a weekend experiment, grew into a full desktop companion platform
+- Ani started as a weekend experiment, grew into a full desktop companion platform
 - Runs multiple AI models in parallel for different tasks
 - Deeply invested in making AI interaction feel natural, not robotic
 - Constantly exploring new ways to bridge terminal AI with rich desktop experiences

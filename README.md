@@ -19,6 +19,7 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 - 🧠 **[Codev](https://github.com/bhaochen/codev)** — Collaborative Agentic Workspace combining search, browser control, coding, voice, and long-session continuity
 - 🧠 **[Omni](https://github.com/bhaochen/omni)** — Multimodal LLM training & inference framework (LM, VLM, speech) from scratch, with real-time voice/video call
 - 📚 **[CS336](https://github.com/bhaochen/CS336)** — Hands-on implementation of Stanford CS336: LLM training, tokenization, transformers, and scaling
+- 🔄 **[Duplex](https://github.com/bhaochen/duplex)** — Real-time bidirectional translation with voice I/O and unified UI
 
 ## Current Projects
 
@@ -36,6 +37,7 @@ Building the future of human-AI interaction — from terminal agents to desktop 
 
 ### LLM & Systems
 - 🧠 **[Omni](https://github.com/bhaochen/omni)** — Multimodal LLM framework: train LM, VLM, and full speech models from scratch; real-time voice/video call
+- 🔄 **[Duplex](https://github.com/bhaochen/duplex)** — Real-time bidirectional translation with voice I/O, Groq Whisper ASR, and unified Qt UI
 - 📚 **[CS336](https://github.com/bhaochen/CS336)** — Transformer implementations from scratch, GPT-2 training, scaling laws
 - 🔧 **System Tooling** — Custom IPC, auto-update pipelines, data epoch migration, cross-session collaboration
 

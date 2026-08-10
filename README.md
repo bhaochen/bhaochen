@@ -1,55 +1,46 @@
 # Hi, I'm Bohao 👋
 
-🌏 **China** | 🤖 **Building AI companions** | 🚀 **Full-stack agentic engineer**
+🤖 **LLM Systems & Post-Training Researcher** | 🛠️ **Agentic AI Engineer**
 
-Building the future of human-AI interaction — from terminal agents to desktop companions with voice, vision, and presence.
+Building intelligent AI systems that bridge models, agents, and human experiences — from high-performance LLM infrastructure to voice-enabled desktop companions.
+
+I focus on:
+- Efficient LLM architectures and attention mechanisms
+- Post-training algorithms (SFT, DPO, GRPO, RLHF)
+- Agent systems and tool-augmented AI
+- Multimodal interaction with voice, vision, and real-time experiences
+
+## 🌐 Open Source
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-## Start Here
+### 🤝 Contributed
 
-- 🤖 **[Ani](https://github.com/bhaochen/ani)** — AI-powered desktop companion with immersive scenes, real-time video interaction, and natural voice conversation
-- 🧠 **[Codev](https://github.com/bhaochen/codev)** — Collaborative Agentic Workspace combining search, browser control, coding, voice, and long-session continuity
-- 🧠 **[Omni](https://github.com/bhaochen/omni)** — Multimodal LLM training & inference framework (LM, VLM, speech) from scratch, with real-time voice/video call
-- 📚 **[CS336](https://github.com/bhaochen/CS336)** — Hands-on implementation of Stanford CS336: LLM training, tokenization, transformers, and scaling
-- 🔄 **[Duplex](https://github.com/bhaochen/duplex)** — Real-time bidirectional translation with voice I/O and unified UI
+- 🤖 **[flash-linear-attention](https://github.com/fla-org/flash-linear-attention)** 
+  ![GitHub stars](https://img.shields.io/github/stars/fla-org/flash-linear-attention?style=social)
+  — Efficient implementations for emerging model architectures.
 
-## Current Projects
+- 🧠 **[tilelang](https://github.com/tile-ai/tilelang)** 
+  ![GitHub stars](https://img.shields.io/github/stars/tile-ai/tilelang?style=social)
+  — Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 
-### AI Desktop Companion
+### 🚀 Leading
+
 - 🤖 **[Ani](https://github.com/bhaochen/ani)** — AI-powered desktop companion with wallpaper integration, video layers, companion mode, and plugin system
-- 🎙️ **Voice Engine** — STT/TTS pipeline with VAD, noise suppression, and multi-provider support (Groq, faster-whisper, edge-tts)
-- 🧩 **Plugin Runtime** — Modular plugin system with card protocol, UI panels, and SDK discovery
-
-### Agentic Workspace
-- 🧠 **[Codev](https://github.com/bhaochen/codev)** — Full-featured agentic coding workspace with ToolSearch, SubAgent Swarm, and auto-compact context management
-- 🖼️ **ImageShowTool** — Terminal-native image rendering with Kitty protocol, ink-picture, and aspect-ratio-aware display
-- 🔍 **WebSearch + WebFetch** — Multi-backend search (SearXNG, Tavily, Jina) with image search and terminal image results
-- 🗺️ **LocationTool** — Geographic search with Amap & Google Maps, unlimited paginated results
-- 🔌 **Bridge System** — CCR remote forwarding, AskUserQuestion decoupling, DingTalk & Feishu integration
-
-### LLM & Systems
+- 🧭 **[Codev](https://github.com/bhaochen/codev)** — Full-featured agentic coding workspace with ToolSearch, SubAgent Swarm, and auto-compact context management
 - 🧠 **[Omni](https://github.com/bhaochen/omni)** — Multimodal LLM framework: train LM, VLM, and full speech models from scratch; real-time voice/video call
-- 🔄 **[Duplex](https://github.com/bhaochen/duplex)** — Real-time bidirectional translation with voice I/O, Groq Whisper ASR, and unified Qt UI
-- 📚 **[CS336](https://github.com/bhaochen/CS336)** — Transformer implementations from scratch, GPT-2 training, scaling laws
-- 🔧 **System Tooling** — Custom IPC, auto-update pipelines, data epoch migration, cross-session collaboration
+
+## 📄 Publication
+
+🌊 [Partial Multi-View Clustering via Meta-Learning and Contrastive Feature Alignment](https://arxiv.org/abs/2411.09758v1)
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=bhaochen&hide_border=true)
-
-## What I'm Doing
-
-- **Building Ani** — Creating an AI companion that feels truly present: immersive wallpaper scenes, real-time voice, and natural interaction
-- **Expanding Codev** — Making agentic development workflows faster, smoother, and more collaborative
-- **Building Omni** — A from-scratch multimodal LLM framework spanning text, vision, and speech
-- **Studying LLMs** — Working through Stanford CS336 to deepen understanding of transformer internals
-- **Rapid prototyping** — Full features in days, iterating on real user feedback
 
 ## Connect
 

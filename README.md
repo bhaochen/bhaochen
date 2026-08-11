@@ -31,7 +31,7 @@ I focus on:
 ### 🚀 Leading
 
 - 🧭 **[Codev](https://github.com/bhaochen/codev)** — Full-featured agentic coding workspace with ToolSearch, SubAgent Swarm, and auto-compact context management
-- 🤖 **[Codev Studio](https://github.com/bhaochen/codev-studio)** — desktop home for your Codev coding agents. Terminals front and center, editor when you need it
+- 🤖 **[Codev Studio](https://github.com/bhaochen/codev-studio)** — Desktop home for your Codev coding agents. Terminals front and center, editor when you need it
 - 🧠 **[Omni](https://github.com/bhaochen/omni)** — Multimodal LLM framework: train LM, VLM, and full speech models from scratch; real-time voice/video call
 
 ## 📄 Publication

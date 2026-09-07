@@ -23,7 +23,7 @@ I focus on:
 - 🤖 **[flash-linear-attention](https://github.com/fla-org/flash-linear-attention)** 
   ![GitHub stars](https://img.shields.io/github/stars/fla-org/flash-linear-attention?style=social)
   — Efficient implementations for emerging model architectures.
-  - **MomentumDeltaNet** [#1208](https://github.com/fla-org/flash-linear-attention/pull/1208) (ICML 2026): dual-state [S, M] reference impl, chunked & fused-recurrent paths, backward-state grads, and full fwd/bwd parity tests.
+  - **MomentumDeltaNet**[#1208](https://github.com/fla-org/flash-linear-attention/pull/1208)(ICML 2026): dual-state [S, M] reference impl, chunked & fused-recurrent paths, backward-state grads, and full fwd/bwd parity tests.
 
 - 🧠 **[tilelang](https://github.com/tile-ai/tilelang)** 
   ![GitHub stars](https://img.shields.io/github/stars/tile-ai/tilelang?style=social)
